@@ -1,0 +1,7 @@
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\obj\Debug\Tp1AiresEtPerimetres.csprojAssemblyReference.cache
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\obj\Debug\Tp1AiresEtPerimetres.csproj.CoreCompileInputs.cache
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\bin\Debug\Tp1AiresEtPerimetres.exe.config
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\bin\Debug\Tp1AiresEtPerimetres.exe
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\bin\Debug\Tp1AiresEtPerimetres.pdb
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\obj\Debug\Tp1AiresEtPerimetres.exe
+C:\Users\mlemasle\source\repos\Tp1AiresEtPerimetres\Tp1AiresEtPerimetres\obj\Debug\Tp1AiresEtPerimetres.pdb
