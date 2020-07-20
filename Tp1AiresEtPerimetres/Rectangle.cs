@@ -14,8 +14,8 @@ namespace Tp1AiresEtPerimetres
 
         public override string ToString()
         {
-            
-            return $"Rectangle de longueur={Longueur} largeur={Largeur}" ;
+
+            return $"Rectangle de longueur={Longueur} largeur={Largeur} " + base.ToString();
         }
     }
 }

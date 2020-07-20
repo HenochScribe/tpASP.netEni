@@ -2,11 +2,21 @@
 {
     internal class Carre : Rectangle
     {
-        public int Largeur { get; set; }
+        private int largeur;
+
+        public virtual int Largeur
+        {
+            get { return largeur; }
+            set { largeur = value; }
+        }
+
+        public override double Perimetre => largeur * 4;
+
+        public override double Aire => largeur * largeur;
 
         public override string ToString()
         {
-            return $"Carre de côté{Largeur}";
+            return $"Carre de côté {Largeur}" ;
         }
     }
 }
