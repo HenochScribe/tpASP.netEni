@@ -2,10 +2,17 @@
 {
     public class Cercle : Forme
     {
-        public int Rayon { get; set; }
+       
+        private int rayon;
+
+        public int Rayon
+        {
+            get { return rayon; }
+            set { rayon = value; }
+        }
 
         public override double Perimetre => (Rayon * 2)* 3.14;
 
-        public override double Aire => 3.14 * Rayon * Rayon;
+        public override double Aire => System.Math.PI * System.Math.Pow(Rayon,2);
     }
 }
